@@ -4,6 +4,7 @@
 *.eml
 out/
 .DS_Store
+.Trashes
 .svn
 log/*.log
 tmp/**
@@ -12,3 +13,6 @@ node_modules/
 css/reveal.min.css
 js/reveal.min.js
 .vscode/
+
+# Thumbnails
+._*
